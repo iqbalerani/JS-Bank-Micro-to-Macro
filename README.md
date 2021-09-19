@@ -1,2 +1,2 @@
-# JS-Bank-Micro-to-Macro
+# JS-Bank-Micro-to-Macro-Investment-Through-Wallet
 Competition by Remotebase Pakistan 
